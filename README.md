@@ -27,3 +27,8 @@ Technologies that are utilized to build the application
 
 ### UI Design
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/uiDesign.jpg)
+
+### Kanban Table
+Utilized Kanban framework to do the software development. 
+
+![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/kanbanTable.jpg)
