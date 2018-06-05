@@ -25,6 +25,10 @@ Overview of the application
 Technologies that are utilized to build the application
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/technologies.jpg)
 
+### Authentication
+OKTA multi-factor authentication with coinbase is implemented to ensure secure access to the application.
+![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/login.jpg)
+
 ### UI Design
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/uiDesign.jpg)
 
