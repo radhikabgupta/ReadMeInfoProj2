@@ -34,6 +34,6 @@ Designed the user interface with UX interface to ensure good user experience. Fl
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/uiDesign.jpg)
 
 ## Kanban Table
-Utilized Kanban framework to do the software development. 
+Utilized Kanban framework to do the software development. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.
 
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/kanbanTable.jpg)
