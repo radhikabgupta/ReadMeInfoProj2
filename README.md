@@ -9,8 +9,8 @@ Bitcoin wallet is a finance stock tool. It uses bitcoin cryptocurrency which is 
 ### Contributors:
   - David Perez 
   - Aaron Chapman 
-    - Radhika Gupta 
----
+  - Radhika Gupta 
+
 ### Features
    - Wallet Keys
    - Transaction History
