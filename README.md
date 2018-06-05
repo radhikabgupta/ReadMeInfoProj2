@@ -7,9 +7,9 @@
 Bitcoin wallet is a finance stock tool. It uses bitcoin cryptocurrency which is a kind of digital or virtual money. Bitcoin wallet app is a wallet prototype with a varieties of functionalities to accommodate and leverage as outcome any bitcoin transaction, make payments, invoices and create new accounts. You can also see a chart of stock values with each cryptocurrency such as bitcoin cash.
 
 ### Contributors:
-  - Radhika Gupta 
   - David Perez 
   - Aaron Chapman 
+    - Radhika Gupta 
 ---
 ### Features
    - Wallet Keys
