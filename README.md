@@ -1,6 +1,6 @@
 # Alpha-Coin Wallet
 
-[![CircleCI](https://circleci.com/gh/sharstream/alpha-coin-wallet/tree/backend-alpha-bitcoin.svg?style=svg)](https://circleci.com/gh/sharstream/alpha-coin-wallet/tree/backend-alpha-bitcoin)
+(https://circleci.com/gh/sharstream/alpha-coin-wallet/tree/backend-alpha-bitcoin)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -17,6 +17,13 @@ Bitcoin wallet is a finance stock tool. It uses bitcoin cryptocurrency which is 
    - Crypto Charts
    - Crypto Invoice
 
-### Front-end and Back-end
-![Overview] (https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/Overview.jpg)
+### Overview
+Overview of the application
+![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/Overview.jpg)
 
+### Technologies
+Technologies that are utilized to build the application
+![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/technologies.jpg)
+
+### UI Design
+![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/uiDesign.jpg)
