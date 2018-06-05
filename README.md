@@ -30,6 +30,7 @@ OKTA multi-factor authentication with coinbase is implemented to ensure secure a
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/login.jpg)
 
 ## UI Design
+Designed the user interface with UX interface to ensure good user experience. Flex buttons and tabs are implemented to enhance the user interface.
 ![Overview](https://github.com/radhikabgupta/ReadMeInfoProj2/blob/master/assets/uiDesign.jpg)
 
 ## Kanban Table
